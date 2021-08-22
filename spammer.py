@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 # spymer v9.0
-# Author: FSystem88
+# Author: Lebedka 
 import os
 def MAIN():
 	try:
