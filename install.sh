@@ -17,7 +17,7 @@ then
 	pip install requests colorama proxyscrape
 	cp ~/spyme/spammer.py $PREFIX/bin/spyme
 	dos2unix $PREFIX/bin/spyme
-	chmod -R 777 ~/spymer
+	chmod -R 777 ~/spyme
 	chmod 777 $PREFIX/bin/spyme
 	spymer
 else
