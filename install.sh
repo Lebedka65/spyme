@@ -19,7 +19,7 @@ then
 	dos2unix $PREFIX/bin/spyme
 	chmod -R 777 ~/spyme
 	chmod 777 $PREFIX/bin/spyme
-	spymer
+	spyme
 else
 	if [ $numb = "2" ]
 	then
